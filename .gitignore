@@ -6,6 +6,24 @@ __pycache__/
 # C extensions
 *.so
 
+# Configuration / Secrets (NEVER commit API keys!)
+config/secrets.yaml
+config/credentials.json
+*.env
+
+# Data files (adjust patterns as needed)
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.pkl
+*.parquet
+*.xlsx
+*.html
+*.png
+*.svg
+*.php
+
 # Distribution / packaging
 .Python
 build/
@@ -31,6 +49,14 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
+# IDE / OS specific files
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
 
 # Installer logs
 pip-log.txt
@@ -169,6 +195,11 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
 
 # PyPI configuration file
 .pypirc
