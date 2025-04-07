@@ -95,9 +95,9 @@ Kia Motors,HYMTF,Hyundai Motor Company
 Poppi,,Poppi (Private)
 Weight Watchers,WW,"WW International, Inc."
 Mophie,ZAGG,"Zagg Inc"
-Turkish Airlines,THYAO.IS,Turkish Airlines # International ticker, may skip
+Turkish Airlines,THYAO.IS,Turkish Airlines # International ticker
 Victoria's Secret,VSCO,"Victoria's Secret & Co."
-WeatherTech,,WeatherTech Direct, LLC (Private) # Corrected from before
+WeatherTech,,"WeatherTech Direct, LLC (Private)"
 Alfa Romeo,STLA,Stellantis
 Homes.com,CSGP,CoStar Group
 Wix.com,WIX,"Wix.com, Ltd."
@@ -133,7 +133,6 @@ Dollar Shave Club,UL,Unilever
 Schick,EPC,Edgewell Personal Care
 Rakuten,RKUNY,"Rakuten Group, Inc. (ADR)"
 Rocket Mortgage,RKT,"Rocket Companies, Inc."
-# --- Mappings for items lower on your list / common ones often missed ---
 TWA,,Trans World Airlines (Defunct)
 Schlitz,,Pabst Brewing Company (Private)
 Plymouth,STLA,Stellantis

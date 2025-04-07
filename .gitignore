@@ -23,6 +23,10 @@ data/processed/
 *.svg
 *.php
 !data/raw/advertiser_ticker_mapping.csv
+data/processed/*.csv
+data/processed/*.pkl
+reports/figures/*.png
+reports/figures/*.svg
 
 # Distribution / packaging
 .Python
