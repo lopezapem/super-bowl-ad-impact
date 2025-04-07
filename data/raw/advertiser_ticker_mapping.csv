@@ -1,0 +1,147 @@
+BrandName,StockTicker,ParentCompany
+Budweiser,BUD,Anheuser-Busch InBev
+Pepsi,PEP,PepsiCo
+Doritos,PEP,PepsiCo
+Honda,HMC,Honda Motor Co.
+Gillette,PG,Procter & Gamble
+Goodyear,GT,Goodyear Tire & Rubber
+Chrysler,STLA,Stellantis
+McDonald's,MCD,McDonald's Corporation
+Coca-Cola,KO,The Coca-Cola Company
+Ford,F,Ford Motor Company
+Netflix,NFLX,Netflix Inc.
+General Motors,GM,General Motors
+T-Mobile,TMUS,Deutsche Telekom
+Bud Light,BUD,Anheuser-Busch InBev
+Squarespace,SQSP,Squarespace Inc.
+TurboTax,INTU,Intuit Inc.
+Michelob Ultra,BUD,Anheuser-Busch InBev
+Toyota,TOYOF,Toyota Motor Corporation
+Pringles,K,Kellanova (Kellogg)
+Master Lock,FBIN,Fortune Brands Innovations
+Jeep,STLA,Stellantis
+Tide,PG,Proctor & Gamble
+Uber Eats,UBER,Uber Technologies Inc.
+Paramount+,PARA,Paramount Global
+Tubi,FOXA,Fox Corporation
+Skechers,SKX,Skechers USA Inc
+Booking.com,BKNG,Booking Holdings Inc.
+Amazon Echo,AMZN,Amazon.com Inc
+Johnson Controls,JCI,Johnson Controls International PLC
+Disney+,DIS,Walt Disney Co
+Alfa Romeo,STLA,Stellantis
+Homes.com,CSGP,CoStar Group
+Wix.com,WIX,"Wix.com, Ltd."
+Sprint,TMUS,T-Mobile US
+Ram Trucks,STLA,Stellantis
+Verizon Wireless,VZ,Verizon Communications
+Salesforce,CRM,"Salesforce, Inc."
+Lay's,PEP,PepsiCo
+M&M's,,Mars (Private)
+Stella Artois,BUD,Anheuser-Busch InBev
+Xerox,XRX,Xerox Holdings Corporation
+Planters,HRL,Hormel Foods
+Xfinity,CMCSA,Comcast
+Coors Light,TAP,Molson Coors Beverage Company
+Pfizer,PFE,"Pfizer Inc."
+FanDuel,FLUT,Flutter Entertainment plc
+Canon,CAJ,"Canon, Inc."
+Hellmann's,UL,Unilever
+Dunkin' Donuts,,Inspire Brands (Private)
+DoorDash,DASH,"DoorDash, Inc."
+Dove,UL,Unilever
+Masterlock,FBIN,Fortune Brands Innovations
+BMW,BMWYY,"BMW Group (ADR)"
+E-Trade,MS,Morgan Stanley
+Esurance,ALL,Allstate
+Skittles,,Mars (Private)
+Nationwide,,Nationwide Mutual Insurance Company (Private)
+DraftKings,DKNG,"DraftKings Inc."
+e.l.f.,ELF,"E.l.f. Beauty, Inc."
+Taco Bell,YUM,"Yum! Brands"
+Ray-Ban,META,Meta Platforms
+Dollar Shave Club,UL,Unilever
+Schick,EPC,Edgewell Personal Care
+Rakuten,RKUNY,"Rakuten Group, Inc. (ADR)"
+Rocket Mortgage,RKT,"Rocket Companies, Inc."
+WeatherTech,,"WeatherTech Direct, LLC (Private)"
+NFL,,National Football League
+He Gets Us,,He Gets Us (Campaign)
+F9,CMCSA,"Universal Pictures (Comcast)"
+Avocados From Mexico,,Avocados From Mexico (Marketing Org)
+U.S. Marines,,United States Marine Corps
+The Pokémon Company,NTDOY,"Nintendo (Primary Public)"
+
+# --- Add These to advertiser_ticker_mapping.csv ---
+Microsoft,MSFT,"Microsoft Corporation"
+GoDaddy,GDDY,"GoDaddy Inc."
+Hyundai,HYMTF,Hyundai Motor Company
+Genesis,HYMTF,Hyundai Motor Company
+Marmot,NWL,Newell Brands
+Heinz,KHC,"The Kraft Heinz Company"
+Loctite,HENKY,"Henkel AG & Co. KGaA (ADR)"
+Subway,,Subway (Private)
+Audi,VWAGY,Volkswagen Group
+Kia,HYMTF,Hyundai Motor Company
+Volkswagen,VWAGY,Volkswagen Group
+RadioShack,,RadioShack (Private/Brand)
+Jublia,BHC,Bausch Health Companies Inc.
+Snickers,,Mars (Private)
+Chevrolet,GM,General Motors
+Dodge,STLA,Stellantis
+Fiat,STLA,Stellantis
+Lexus,TM,Toyota Motor Corporation
+Kia Motors,HYMTF,Hyundai Motor Company
+Poppi,,Poppi (Private)
+Weight Watchers,WW,"WW International, Inc."
+Mophie,ZAGG,"Zagg Inc"
+Turkish Airlines,THYAO.IS,Turkish Airlines # International ticker, may skip
+Victoria's Secret,VSCO,"Victoria's Secret & Co."
+WeatherTech,,WeatherTech Direct, LLC (Private) # Corrected from before
+Alfa Romeo,STLA,Stellantis
+Homes.com,CSGP,CoStar Group
+Wix.com,WIX,"Wix.com, Ltd."
+Sprint,TMUS,T-Mobile US
+Ram Trucks,STLA,Stellantis
+Verizon Wireless,VZ,Verizon Communications
+Salesforce,CRM,"Salesforce, Inc."
+Lay's,PEP,PepsiCo
+M&M's,,Mars (Private)
+Stella Artois,BUD,Anheuser-Busch InBev
+Xerox,XRX,Xerox Holdings Corporation
+Planters,HRL,Hormel Foods
+Xfinity,CMCSA,Comcast
+Coors Light,TAP,Molson Coors Beverage Company
+Pfizer,PFE,"Pfizer Inc."
+FanDuel,FLUT,Flutter Entertainment plc
+Canon,CAJ,"Canon, Inc."
+Hellmann's,UL,Unilever
+Dunkin' Donuts,,Inspire Brands (Private)
+DoorDash,DASH,"DoorDash, Inc."
+Dove,UL,Unilever
+Masterlock,FBIN,Fortune Brands Innovations
+BMW,BMWYY,"BMW Group (ADR)"
+E-Trade,MS,Morgan Stanley
+Esurance,ALL,Allstate
+Skittles,,Mars (Private)
+Nationwide,,Nationwide Mutual Insurance Company (Private)
+DraftKings,DKNG,"DraftKings Inc."
+e.l.f.,ELF,"E.l.f. Beauty, Inc."
+Taco Bell,YUM,"Yum! Brands"
+Ray-Ban,META,Meta Platforms
+Dollar Shave Club,UL,Unilever
+Schick,EPC,Edgewell Personal Care
+Rakuten,RKUNY,"Rakuten Group, Inc. (ADR)"
+Rocket Mortgage,RKT,"Rocket Companies, Inc."
+# --- Mappings for items lower on your list / common ones often missed ---
+TWA,,Trans World Airlines (Defunct)
+Schlitz,,Pabst Brewing Company (Private)
+Plymouth,STLA,Stellantis
+Pall Mall,BTI,British American Tobacco
+Silva Thins,BTI,British American Tobacco
+Salem,BTI,British American Tobacco
+Winston,BTI,British American Tobacco
+RCA,,RCA (Brand ownership complex)
+Mott's,KDP,Keurig Dr Pepper
+Right Guard,HENKY,"Henkel AG & Co. KGaA (ADR)"
+Phillips 66,PSX,Phillips 66
